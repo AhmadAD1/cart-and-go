@@ -51,9 +51,9 @@ npm install
 Create a `.env` file in the root directory and add the following environment variables:
 
 ```env
-MONGO_URI=your_mongodb_connection_string
-STRIPE_SECRET_KEY=your_stripe_secret_key
-JWT_SECRET=your_jwt_secret_key
+MONGO_URI=
+STRIPE_SECRET_KEY=
+JWT_SECRET=
 ```
 
 ### Run the Application
@@ -123,5 +123,5 @@ This project is licensed under the MIT License.
 For any questions or comments, please reach out to:
 
 - Name: Ahmad Adawi
-- Email: adawiahmad89@gmail.com
+- Email: adawiahmad78@gmail.com
 - GitHub:https://github.com/AhmadAD1
